@@ -1,6 +1,7 @@
 .banner{
     height: 56vh;
     background-position: center;
+    background-size: cover;
 }
 
 .banner:before{
